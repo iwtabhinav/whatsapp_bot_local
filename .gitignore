@@ -15,6 +15,9 @@ data/whatsapp-session/
 data/whatsapp-connection-state.json
 data/whatsapp-qr.json
 data/whatsapp-qr.png
+creds.json
+cookies.txt
+booking-sessions.json
 
 # Logs
 logs/
