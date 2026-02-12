@@ -1,0 +1,101 @@
+{
+  "source": "service_faq.md",
+  "processed_at": "2025-08-14T11:51:07.453Z",
+  "content": {
+    "main_topics": [
+      "Vehicle Types and Rates",
+      "Booking Policies",
+      "Payment Information",
+      "Service Areas",
+      "Additional Services",
+      "Customer Support"
+    ],
+    "key_concepts": [
+      "Types of vehicles",
+      "Base rate",
+      "Per kilometer rate",
+      "Booking methods",
+      "Booking information",
+      "Booking notice",
+      "Payment methods",
+      "Payment time",
+      "Refund policy",
+      "Operating areas",
+      "Inter-emirate transfers",
+      "Extra services",
+      "Customer support contact",
+      "Chauffeur delay policy"
+    ],
+    "faqs": [
+      {
+        "question": "What types of vehicles do you offer?",
+        "answer": "We offer four types of luxury vehicles: Sedan, SUV, Luxury (Maybach), and Van. Each with different base rates and per kilometer rates."
+      },
+      {
+        "question": "What's included in the base rate?",
+        "answer": "The base rate includes a professional chauffeur, vehicle cleaning and preparation, basic amenities, 15 minutes complimentary waiting time, air-conditioned comfort, and insurance coverage."
+      },
+      {
+        "question": "How do I make a booking?",
+        "answer": "You can book through WhatsApp booking assistant, our website, or a phone call to our booking center."
+      },
+      {
+        "question": "What information do I need to provide?",
+        "answer": "You need to provide your name, pickup location, drop-off location, pickup time, vehicle preference, and any special requirements."
+      },
+      {
+        "question": "How far in advance should I book?",
+        "answer": "Regular bookings require at least 2 hours notice, airport transfers 4 hours notice, and special events 24 hours notice."
+      },
+      {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept Credit/Debit cards, Bank transfer, Cash (for regular customers only), and Digital wallets."
+      },
+      {
+        "question": "When do I need to pay?",
+        "answer": "Payment is required at the time of booking confirmation. The booking is only confirmed after successful payment."
+      },
+      {
+        "question": "What is your refund policy?",
+        "answer": "Full refund for cancellation 24+ hours before pickup, 50% refund for cancellation 12-24 hours before pickup, and no refund for cancellation less than 12 hours before pickup."
+      },
+      {
+        "question": "Where do you operate?",
+        "answer": "We provide service throughout the UAE, including Dubai, Abu Dhabi, Sharjah, Ajman, Ras Al Khaimah, Fujairah, and Umm Al Quwain."
+      },
+      {
+        "question": "Do you offer inter-emirate transfers?",
+        "answer": "Yes, we specialize in inter-emirate transfers with competitive rates."
+      },
+      {
+        "question": "What extra services do you offer?",
+        "answer": "We offer Baby Seat, WiFi Service, Meet & Greet with Name Board, Premium Refreshments, Extra Stop, and Luxury Car Decoration. Each with different charges."
+      },
+      {
+        "question": "Can I request a specific chauffeur?",
+        "answer": "Yes, subject to availability. Please mention your preferred chauffeur during booking."
+      },
+      {
+        "question": "How can I contact customer support?",
+        "answer": "You can contact customer support through WhatsApp, Phone, or Email."
+      },
+      {
+        "question": "What if my chauffeur is late?",
+        "answer": "We monitor all bookings in real-time. If there's any delay, we will notify you immediately, provide estimated new arrival time, and offer compensation if delay exceeds 15 minutes."
+      }
+    ],
+    "rules": [
+      "Payment is required at the time of booking confirmation.",
+      "Cancellation policy: Full refund for cancellation 24+ hours before pickup, 50% refund for cancellation 12-24 hours before pickup, and no refund for cancellation less than 12 hours before pickup."
+    ],
+    "important_details": [
+      "We offer four types of luxury vehicles with different rates.",
+      "Booking can be done through WhatsApp, website, or phone call.",
+      "Payment methods include Credit/Debit cards, Bank transfer, Cash, and Digital wallets.",
+      "We operate throughout the UAE and specialize in inter-emirate transfers.",
+      "We offer additional services like Baby Seat, WiFi Service, Meet & Greet with Name Board, Premium Refreshments, Extra Stop, and Luxury Car Decoration.",
+      "Customer support can be contacted through WhatsApp, Phone, or Email.",
+      "In case of chauffeur delay, we notify the customer, provide new arrival time, and offer compensation if delay exceeds 15 minutes."
+    ]
+  }
+}
