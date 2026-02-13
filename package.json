@@ -26,7 +26,7 @@
     "demo": "node features-demo.js",
     "install-deps": "node install.js",
     "dev": "nodemon start.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node src/Tests/test.booking-validation.js"
   },
   "keywords": [
     "whatsapp",

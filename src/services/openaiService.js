@@ -42,10 +42,11 @@ Fields:
 - name
 - pickupLocation
 - dropLocation (only for transfer)
-- pickupTime (24h acceptable or AM/PM)
+- pickupTime (24h acceptable or AM/PM; for voice: "tomorrow 3pm", "at 2", "noon", "next Monday 10am")
+- pickupDate (for voice: "tomorrow", "today", "15th January", "next Friday")
 - vehicleType (Sedan, SUV, Luxury, Van)
-- numberOfPassengers
-- luggageDetails
+- numberOfPassengers (for voice: "two people", "4 passengers", "for 3")
+- luggageDetails / luggage count (for voice: "two suitcases", "3 bags", "no luggage")
 - specialRequests
 - hours (only for hourly; integer)
 
@@ -55,6 +56,7 @@ Rules:
 3) Normalize vehicleType capitalization (Sedan/SUV/Luxury/Van).
 4) Name should be just the person's name.
 5) If both bookingType and hours are missing but text mentions "hour", prefer bookingType: "hourly".
+6) For voice/spoken text: interpret natural phrases for date (tomorrow, today, next Monday), time (3pm, 2 in the afternoon, noon), passengers (two people, 4 pax), luggage (two bags, 3 suitcases).
 `;
       const userPrompt = `Message: ${text}`;
 
